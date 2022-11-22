@@ -65,14 +65,12 @@ Práca so statickým modifikátorom.
 8. Pošlite link na repozitár Lab masterovi s číslom tejto úlohy.
 
 ## Open-Lab-11.00 (35 XP)
-Využitie dedičnosti.
-1. Vytvorte vo Visual Studio nový konzolový C# projekt a nazvite ho "Open-Lab-11.00".
-2. Uploadnite ho na GitHub do príslušného repozitára.
-3. V projekte vytvorte dva nové súbory (typu class - prípona .cs) a nazvite ich "Book" a "Library".
-4. Do triedy Book nakopírujte z cvičenia 10.05 všetky premenné (private), ich vlastnosti (public), statický list (public), tri konštruktory, metódu na výpis premenných (public).
-5. V triede Library vytvorte premenné "numberOfBooks", "numberOfStudents", "studentsList" (list stringov), "booksList" (list Bookov) a k nim príslušné metódy pre vkladanie i výpis.
-6. V metóde Main() vytvorte objekt "schoolLibrary" z triedy Library. V ňom vytvorte dvoch študentov "John" a "Poul", ktorý budú mať každý po dve učebnice. Zmysluplne vyplňte všetky premenné.
-7. Z objektu schoolLibrary zavolajte metódu na vypísanie všetkých premenných.
-8. Synchronizujte projekt s GitHub a pošlite link na repozitár Lab masterovi s číslom tejto úlohy.
+1. Upravte posledné cvičenie "Open-Lab-10.05" tak, že ho rozšírite o nasledujúce veci.
+2. V projekte vytvorte novú classu "Library".
+3. Do triedy Book nakopírujte z cvičenia 10.05 všetky premenné (private), ich vlastnosti (public), statický list (public), tri konštruktory, metódu na výpis premenných (public).
+4. V triede Library vytvorte premenné "numberOfBooks", "numberOfStudents", "studentsList" (list stringov), "booksList" (list Bookov) a k nim príslušné metódy pre vkladanie i výpis.
+5. V metóde Main() vytvorte objekt "schoolLibrary" z triedy Library. V ňom vytvorte dvoch študentov "John" a "Poul", ktorý budú mať každý po dve učebnice. Zmysluplne vyplňte všetky premenné.
+6. Z objektu schoolLibrary zavolajte metódu na vypísanie všetkých premenných.
+7. Synchronizujte projekt s GitHub a pošlite link na repozitár Lab masterovi s číslom tejto úlohy.
 
 
